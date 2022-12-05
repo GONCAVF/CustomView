@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="vertical_slider">
+        <attr name="exampleString" format="string" />
+        <attr name="exampleDimension" format="dimension" />
+        <attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" />
+        <attr name="value" format="integer" />
+    </declare-styleable>
+</resources>
